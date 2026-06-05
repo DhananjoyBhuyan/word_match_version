@@ -1,0 +1,11 @@
+UPDATE AVAILABLE!
+What's New in Word Match 1.6.5:
+1. Improved UI/UX
+2. Added progression
+3. Added progress persistence
+4. Better animations.
+5. Bug fixes.
+How to update:
+Uninstall this old app, then reinstall the app. 
+Any questions? Contact the developer at: dhananjoy.bhuyan.2022@gmail.com
+- Dhananjoy Bhuyan(developer)
