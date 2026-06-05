@@ -6,6 +6,6 @@ What's New in Word Match 1.6.5:
 4. Better animations.
 5. Bug fixes.
 How to update:
-Uninstall this old app, then reinstall the app. 
+Download the new APK file and run it.
 Any questions? Contact the developer at: dhananjoy.bhuyan.2022@gmail.com
 - Dhananjoy Bhuyan(developer)
